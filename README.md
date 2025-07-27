@@ -1,1 +1,1 @@
-# Google-Map-Integration-react-
+# ReactTSGoogle-Map-Integration
